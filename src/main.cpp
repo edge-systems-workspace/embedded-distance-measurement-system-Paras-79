@@ -3,7 +3,7 @@
  * @file main.cpp
  * @brief Embedded Distance Measurement using Ultrasonic Sensor
  * @author Utkarsh_Singh_Routela [Paras-79]
- * @date 19/02/2006
+ * @date 19/02/2006.
  *
  * @details
  * Measures distance using HC-SR04 ultrasonic sensor
